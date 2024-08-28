@@ -1,0 +1,11 @@
+{
+    "idf.portWin": "COM6",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "stdio.h": "c",
+        "gpio.h": "c",
+        "freertos.h": "c",
+        "esp_log.h": "c"
+    },
+    "idf.adapterTargetName": "esp32"
+}
