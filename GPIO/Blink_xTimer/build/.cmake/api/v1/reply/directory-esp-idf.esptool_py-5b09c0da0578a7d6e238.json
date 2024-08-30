@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "esp-idf/esptool_py",
+		"source" : "C:/ESP32/v5.3/esp-idf/components/esptool_py"
+	}
+}

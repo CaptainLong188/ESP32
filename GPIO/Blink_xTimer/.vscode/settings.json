@@ -1,0 +1,13 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "idf.portWin": "COM6",
+    "idf.flashType": "UART",
+    "idf.espIdfPathWin": "C:/ESP32/v5.3/esp-idf",
+    "files.associations": {
+        "stdio.h": "c",
+        "gpio.h": "c",
+        "freertos.h": "c",
+        "esp_log.h": "c",
+        "timers.h": "c"
+    }
+}
